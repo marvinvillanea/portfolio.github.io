@@ -21,7 +21,7 @@ $(document).ready(function () {
 
     // Initiate Typed js
     new Typed('#typed', {
-        strings: ["I'm Start Coding", 'Front End Developer', 'Who Loves Writing Codes'],
+        strings: ["I'm Marvin Villanea", 'System Developer', 'Who Loves Writing Codes'],
         typeSpeed: 50,
     });
 
