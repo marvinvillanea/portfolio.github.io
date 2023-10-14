@@ -59,3 +59,7 @@ $(document).on('click','#send-msg',function(event){
     }
       
 });
+
+$(document).on('click', '.download-cv', function(e){
+    main.alertMessage('warning', 'Sorry Not yet Available', 'If you need anything please sent me an email. Thank you');
+});
