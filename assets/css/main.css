@@ -129,8 +129,8 @@
 }
 
 .homepage .sidebar .user-meta .user-image{
-    width: 150px;
-    height: 150px;
+    /* width: 150px;
+    height: 150px; */
     border-radius: 20px;
     padding: 5px;
     border: 2px solid var(--main-color);
@@ -575,6 +575,7 @@
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
+    text-align: center;
 }
 
 .homepage .works .box .img img{
