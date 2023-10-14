@@ -624,7 +624,7 @@
 .homepage .contacts{
     background-color: var(--section-bg-color);
     padding: 30px 30px 50px;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 .homepage .contacts .box{
